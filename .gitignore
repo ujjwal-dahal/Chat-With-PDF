@@ -1,0 +1,12 @@
+# Frontend
+frontend/.next/
+frontend/node_modules/
+frontend/.env
+frontend/npm-debug.log
+
+# Backend
+backend/myenv/
+backend/pdf_chroma_db/
+backend/upload/
+backend/.env
+
